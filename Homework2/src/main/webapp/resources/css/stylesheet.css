@@ -1,0 +1,235 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 24 ene 2024, 17:28:11
+    Author     : nicol
+*/
+body {
+    font-family: Arial;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none !important;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: black;
+}
+
+#nav {
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#nav a {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+}
+
+#nav li {
+    display: inline;
+    padding: 20px;
+}
+
+#game-container {
+    align-content: center;
+    text-align: center;
+    width: 40%;
+    margin: 10px auto;
+    padding: 15px;
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    text-decoration: none !important;
+}
+
+#game-container a {
+    text-decoration: none !important;
+}
+
+#title-row {
+    display: inline;
+}
+
+.bold-text {
+    font-size: 18px;
+    font-family: Arial, Bold;
+}
+
+.normal-text {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+#titulo-juego {
+    color: black;
+    display: inline-block;
+}
+
+#precio-juego {
+    color: darkseagreen;
+    display: flex;
+    align-content: flex-end;
+    display: inline-block;
+}
+
+.contenedor-columnas::after {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 10px;
+}
+
+.contenedor-columnas-mini::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 30px;
+}
+
+.columna-izquierda {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+}
+
+.columna-derecha {
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.detail-style {
+    font-family: Arial;
+}
+
+.center-title {
+    font-family: Arial;
+    text-align: center;
+    font-family: 19px;
+}
+
+#detail-bold {
+    font-size: 23px;
+}
+
+#detail-normal {
+    font-size: 18px;
+    color: darkgray;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.buttonCantidad {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 1px;
+    cursor: pointer;
+}
+
+.div-padding {
+    padding: 15px;
+}
+
+.custom-input {
+    width: 30px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: black;
+    outline: none;
+    text-align: center;
+}
+
+.footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 15px;
+}
+
+.centrar-div {
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.busqueda {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.busqueda input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 50%;
+    font-size: 16px;
+}
+
+.combos {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.busqueda button {
+    position: absolute;
+    top: 0;
+    margin-left: 15px;
+    padding: 10px;
+    border: none;
+    background: #F3444F;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.busqueda button:hover {
+    background: #F345FF;
+}
+
+.hr-deco {
+    opacity: 0.5;
+}

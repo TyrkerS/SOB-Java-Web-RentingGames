@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioUsuario.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/Usuario.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/authn/RESTRequestFilter.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/Tienda.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioTienda.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/authn/Credentials.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/AbstractFacade.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioVideojuego.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/Videojuego.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/CommentFacadeREST.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/VideoConsola.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioConsola.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/Alquiler.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/RESTapp.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioAlquiler.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/model/entities/TipoJuego.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/service/ServicioListaAlquiler.java</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/web/install.jsp</file>
+            <file>file:/C:/Users/nicol/Documents/Uni/Homework1/src/java/authn/Secured.java</file>
+        </group>
+    </open-files>
+</project-private>
