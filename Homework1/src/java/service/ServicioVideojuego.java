@@ -208,7 +208,7 @@ también funcionará si queremos usar ambos valores como opcionales y listar tod
                 return Response.status(Response.Status.NOT_FOUND).entity("No se encontró el videojuego con el título proporcionado.").build();
             }
 
-            // Actualizar la disponibilidad
+            // Actualizar disponibilidad
             int dispo = videojuego.getDisponibilidad();
             dispo = dispo-1;
             videojuego.setDisponibilidad(dispo);
